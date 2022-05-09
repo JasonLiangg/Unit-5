@@ -1,0 +1,23 @@
+.meat{
+    width: 200px;
+    border: 5px solid red;
+    padding: 10px;
+    margin: 10px;
+}
+.vegetable{
+    width: 200px;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 10px;
+}
+.MenuItem{
+    display:flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+body {
+ background-image: url("https://d2f8eg6dcddg1z.cloudfront.net/template-thumbs/prod/659c9659-acb8-449e-8e91-ab745ad0c482/618x800_page1.jpg?lastUpdated=1547564184000");
+ background-color: red;
+}
+
+    
